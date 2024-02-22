@@ -1,0 +1,47 @@
+body {
+    background-color: olivedrab;
+}
+
+.tarjeta{
+    border: 3px solid red;
+    width: 330px;
+    height: 420px;
+    border-radius: 20px;
+    background-color: olivedrab;
+    box-shadow: white 2px 6px 10px;
+}
+
+.titulo {
+    text-align: center;
+    padding: 10px;
+    font-size: 25px;
+    
+}
+
+img {
+    width: 220px;
+    display:block;
+    margin:auto;
+}
+
+.cuerpo p {
+    padding-left: 10px;
+}
+
+.pie {
+    background-color: rgb(0, 145, 255);
+    height: 40px;
+    padding-top: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-bottom: 0px;
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+    display: block;
+    margin: auto;
+    padding-left: 25%;
+    font-size: 20px;
+}
